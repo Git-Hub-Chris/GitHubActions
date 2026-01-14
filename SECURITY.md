@@ -6,7 +6,7 @@ We take security seriously and appreciate your help in identifying and fixing vu
 
 ### Reporting Process
 
-1. **Email the security team** with details about the vulnerability
+1. **Contact the security team** with details about the vulnerability
 2. **Do not disclose** the vulnerability publicly until we've had time to address it
 3. **Include a proof-of-concept** or steps to reproduce if possible
 4. **Allow 90 days** for us to develop and release a fix before public disclosure
