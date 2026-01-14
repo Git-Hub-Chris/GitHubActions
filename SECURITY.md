@@ -48,12 +48,6 @@ This repository uses the following security measures:
 - Pre-commit hooks for code quality
 - Automated testing and validation
 
-## Security Contact
-
-For security concerns, please contact:
-- **Email**: security@example.com
-- **Response time**: Within 7 business days
-
 ## Disclaimer
 
 While we strive to maintain the security of this project, no software is completely secure. Users are responsible for implementing appropriate security measures when using GitHub Actions in their workflows and environments.
