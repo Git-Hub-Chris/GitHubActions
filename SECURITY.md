@@ -2,7 +2,7 @@
 
 ## Reporting a Vulnerability
 
-We take security seriously and appreciate your help in identifying and fixing vulnerabilities. Please report security vulnerabilities responsibly by emailing security@example.com instead of using the public issue tracker.
+We take security seriously and appreciate your help in identifying and fixing vulnerabilities. Please report security vulnerabilities responsibly.
 
 ### Reporting Process
 
